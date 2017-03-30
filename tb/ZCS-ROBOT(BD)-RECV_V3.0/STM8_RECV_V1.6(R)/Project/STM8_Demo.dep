@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1955097564</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\GL_charge_process.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADSample.o</file>
+      <file>$TOOLKIT_DIR$\lib\dbgstm8smd.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysInit.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\USER\MacProtect.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nrf24l01.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\STM8_Demo.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\STM8_Demo.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\Buzz.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\QueueMsg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysInit.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\STM8_Demo.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nrf24l01.o</file>
+      <file>$PROJ_DIR$\..\USER\FAN_Control.h</file>
+      <file>$PROJ_DIR$\..\USER\BusContrl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\MacProtect.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\QueueMsg.pbi</file>
+      <file>$PROJ_DIR$\..\USER\GL_charge_process.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\BusContrl.o</file>
+      <file>$PROJ_DIR$\..\USER\Nrf24l01.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+      <file>$TOOLKIT_DIR$\config\lnkstm8s105k4.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\Buzz.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\MacProtect.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\FAN_Control.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM_Control.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM_Control.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\BusContrl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Eeprom.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\List\STM8_Demo.map</file>
+      <file>$PROJ_DIR$\Debug\Obj\BusContrl.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\MacProtect.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADSample.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\FAN_Control.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\GL_charge_process.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM_Control.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\QueueMsg.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nrf24l01.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_interruput.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysInit.__cstat.et</file>
+      <file>$PROJ_DIR$\..\USER\BusContrl.c</file>
+      <file>$PROJ_DIR$\..\USER\ADSample.c</file>
+      <file>$PROJ_DIR$\..\USER\Buzz.c</file>
+      <file>$PROJ_DIR$\..\USER\Eeprom.c</file>
+      <file>$PROJ_DIR$\..\USER\FAN_Control.c</file>
+      <file>$PROJ_DIR$\..\USER\GL_charge_process.c</file>
+      <file>$PROJ_DIR$\..\USER\MacProtect.c</file>
+      <file>$PROJ_DIR$\..\USER\main.c</file>
+      <file>$PROJ_DIR$\..\USER\Nrf24l01.c</file>
+      <file>$PROJ_DIR$\..\USER\PWM_Control.c</file>
+      <file>$PROJ_DIR$\..\USER\QueueMsg.c</file>
+      <file>$PROJ_DIR$\..\USER\stm8s_interruput.c</file>
+      <file>$PROJ_DIR$\..\USER\SysInit.c</file>
+      <file>$PROJ_DIR$\..\USER\uart.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\USER\Clock.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\USER\RAM.h</file>
+      <file>$PROJ_DIR$\..\USER\ADSample.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Eeprom.pbi</file>
+      <file>$PROJ_DIR$\..\USER\SysInit.h</file>
+      <file>$PROJ_DIR$\..\USER\iostm8s105k4.h</file>
+      <file>$TOOLKIT_DIR$\inc\io_macros.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
+      <file>$PROJ_DIR$\..\USER\QueueMsg.h</file>
+      <file>$PROJ_DIR$\..\USER\Buzz.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\FAN_Control.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\USER\uart.h</file>
+      <file>$PROJ_DIR$\..\USER\PWM_Control.h</file>
+      <file>$PROJ_DIR$\..\USER\type_def.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GL_charge_process.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Eeprom.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADSample.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_interruput.pbi</file>
+      <file>$PROJ_DIR$\..\USER\Eeprom.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm8s_interruput.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Buzz.o</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 15 34</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\STM8_Demo.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 25 1 22 92 87 28 0 27 86 16 29 12 91 4 14 24 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\BusContrl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 84 70 71 61 17 62 63 18 75 21 64 3 65 23 81 67 90 66 82 6 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\ADSample.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 71 17 70 74 64 62 63 18 75 21 72 84 3 65 23 81 67 90 66 82 6 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\Buzz.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 92</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 21 84 18 63 75 71 70 61 74 17 64 3 65 23 81 67 90 66 82 6 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\Eeprom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 67 84 3 6 23 66 65 81 90 82 64 71 62 70 63 61 18 74 75 17 21 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\FAN_Control.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 84 90 81 82 3 23 67 66 6 72 64 71 62 70 63 61 18 74 75 17 21 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\GL_charge_process.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 84 70 71 61 17 62 63 18 75 21 64 3 65 23 81 67 90 66 82 6 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\MacProtect.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81 82 65 90 64 3 23 67 66 6 84 71 62 70 63 61 18 74 75 17 21 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 84 90 81 82 3 23 67 66 6 72 64 83 71 62 70 63 61 18 74 75 17 21 68 76 7 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\Nrf24l01.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 90 81 82 64 3 23 67 66 6 84 71 62 70 63 61 18 74 75 17 21 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\PWM_Control.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 70 71 61 17 64 62 63 18 75 21 72 84 3 65 23 81 67 90 66 82 6 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\QueueMsg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 41</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 74</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\stm8s_interruput.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 84 81 65 90 3 23 67 66 6 72 64 71 62 70 63 61 18 74 75 17 21 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\SysInit.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 3 67 23 66 64 65 81 90 82 84 71 62 70 63 61 18 74 75 17 21 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\USER\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 71 84 61 70 74 62 63 18 75 21 64 3 65 23 81 67 90 66 82 6 72 68 76 7 83 78 73 80 77</file>
+        </tool>
+        <tool>
+          <name>ICCSTM8</name>
+          <file> 83 71 72 3 62 65 70 23 63 81 61 7 84 68 73 80 78 76 64 67 77 18 90 74 66 75 82 17 6 21</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
